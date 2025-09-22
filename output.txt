@@ -1,0 +1,7 @@
+datacleaning.py
+------------------------------------------
+Found 5216 images belonging to 2 classes.
+Found 16 images belonging to 2 classes.
+Found 624 images belonging to 2 classes.
+------------------------------------------
+
